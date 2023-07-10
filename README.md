@@ -5,9 +5,8 @@
 <ul>
   <li><a href="https://www.skku.edu/skku/">Sungkyunkwan University</a> 
     <ul>
-      <li> Undergraduate Student (2018-) </li>
+      <li> Undergraduate Student (Junior) </li>
       <li> <a href="https://sw.skku.edu/sw/index.do">Department of Computer Science & Engineering</a> </li>
-      <li> Junior </li>
     </ul>
   </li>
 </ul>
