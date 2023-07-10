@@ -38,6 +38,11 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
+### 💡 Most Used Language 💡
+<a href="https://github.com/mistercoin818">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistercoin818&layout=compact&show_icons=false&show_owner=mistercoin818&hide_title=false&theme=vue&hide=false" />
+</a>
+
 ### 💻 Coding Activity
 
 <p>
