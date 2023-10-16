@@ -58,6 +58,16 @@
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=taehunkim&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### 🔑 Problem Solving
+
+<p>
+<a href="https://solved.ac/profile/kthnice/">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice"></a>
+</p>
+
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/) -->
+
 ### 📞 Contact
 
 - ✉ kthnice@g.skku.edu
