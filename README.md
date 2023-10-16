@@ -51,12 +51,12 @@
 ### 💻 Coding Activity
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=taehunkim&theme=dark&hide_border=false" text-align="center"/></div></a>
+<a href="https://github.com/mistercoin818/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=dark&hide_border=false" text-align="center"/></div></a>
 </p>
 
 <!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=taehunkim&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=blueberry&hide_border=true)](https://github.com/mistercoin818/github-readme-stats) -->
 
 ### 🔑 Problem Solving
 
