@@ -5,7 +5,7 @@
 <ul>
   <li><a href="https://www.skku.edu/skku/">Sungkyunkwan University</a> 
     <ul>
-      <li> <a href="https://cse.skku.edu/cse/index.do">Department of Computer Science & Engineering</a> </li>
+      <li> <a href="https://cse.skku.edu/cse/index.do">Department of Computer Science and Engineering</a> </li>
       <li> Undergraduate Student (Senior) </li>
     </ul>
   </li>
