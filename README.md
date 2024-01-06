@@ -1,7 +1,7 @@
 ### Taehun Kim
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistercoin818&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### 📍 My Profile
 
+### 📍 My Profile
 <ul>
   <li><a href="https://www.skku.edu/skku/">Sungkyunkwan University</a> 
     <ul>
@@ -12,7 +12,6 @@
 </ul>
 
 ### 📚 I'm learning...
-
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black">
@@ -44,13 +43,14 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
+<!--
 ### 💡 Most Used Language 💡
 <a href="https://github.com/mistercoin818">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistercoin818&layout=compact&show_icons=false&show_owner=mistercoin818&hide_title=false&theme=vue&hide=false" />
 </a>
+-->
 
 ### 💻 Coding Activity
-
 <p>
 <a href="https://github.com/mistercoin818/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=dark&hide_border=false" text-align="center"/></div></a>
@@ -60,7 +60,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=blueberry&hide_border=true)](https://github.com/mistercoin818/github-readme-stats) -->
 
 ### 🔑 Problem Solving
-
 <p>
 <a href="https://solved.ac/profile/kthnice/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice"></a>
@@ -70,6 +69,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/) -->
 
 ### 📞 Contact
-
 - ✉ kthnice@g.skku.edu
-
