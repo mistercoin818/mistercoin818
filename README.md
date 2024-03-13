@@ -5,8 +5,8 @@
 <ul>
   <li><a href="https://www.skku.edu/skku/">Sungkyunkwan University</a> 
     <ul>
-      <li> <a href="https://cse.skku.edu/cse/index.do">Department of Computer Science and Engineering</a> </li>
-      <li> Undergraduate Student (Senior) </li>
+      <li> Bachelor of Science in Engineering (24.08 expected) </li>
+      <li> Major: <a href="https://cse.skku.edu/cse/index.do">Computer Science and Engineering</a> </li>
     </ul>
   </li>
 </ul>
