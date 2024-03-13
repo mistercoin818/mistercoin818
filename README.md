@@ -50,12 +50,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistercoin818&layout=compact&show_icons=false&show_owner=mistercoin818&hide_title=false&theme=vue&hide=false" />
 </a>
 -->
-
+<!--
 ### 💻 Coding Activity
 <p>
 <a href="https://github.com/mistercoin818/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=dark&hide_border=false" text-align="center"/></div></a>
 </p>
+-->
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=blueberry&hide_border=true)](https://github.com/mistercoin818/github-readme-stats) -->
