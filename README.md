@@ -65,4 +65,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/) -->
 
 ### 📞 Contact
-- ✉ kthnice@g.skku.edu
+- ✉ mistercoin@naver.com
