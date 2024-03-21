@@ -3,12 +3,7 @@
 
 ### 📍 My Profile
 <ul>
-  <li><a href="https://www.skku.edu/skku/">Sungkyunkwan University</a> 
-    <ul>
-      <li> Bachelor of Science in Engineering (24.08 expected) </li>
-      <li> Major: <a href="https://cse.skku.edu/cse/index.do">Computer Science and Engineering</a> </li>
-    </ul>
-  </li>
+  <li> Bachelor of Science in Engineering - BSE, Computer Science and Engineering (24.08 expected) </li>
 </ul>
 
 ### 📚 I have experienced...
