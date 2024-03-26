@@ -3,7 +3,7 @@
 
 ### 📍 My Profile
 <ul>
-  <li> Bachelor of Science in Engineering - BSE, Computer Science and Engineering (24.08 expected) </li>
+  <li> Bachelor of Science in Engineering - BSE, Computer Science and Engineering (expected) </li>
 </ul>
 
 ### 📚 I have experienced...
