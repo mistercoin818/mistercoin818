@@ -56,13 +56,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistercoin818&theme=blueberry&hide_border=true)](https://github.com/mistercoin818/github-readme-stats) -->
 
 ### 🔑 Problem Solving
-<p>
-<a href="https://solved.ac/profile/kthnice/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice"></a>
-</p>
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/)
+[![](https://leetcard.jacoblin.cool/swayaeu03?theme=dark&font=Smooch%20Sans&ext=heatmap)](https://leetcode.com/swayaeu03/)
 
 ### 📞 Contact
 - ✉ mistercoin@naver.com
