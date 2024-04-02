@@ -57,7 +57,7 @@
 
 ### 🔑 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/)
-[![](https://leetcard.jacoblin.cool/swayaeu03?theme=dark&font=Smooch%20Sans&ext=heatmap)](https://leetcode.com/swayaeu03/)
+<!--[![](https://leetcard.jacoblin.cool/swayaeu03?theme=dark&font=Smooch%20Sans&ext=heatmap)](https://leetcode.com/swayaeu03/)-->
 
 ### 📞 Contact
 - ✉ mistercoin@naver.com
