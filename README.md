@@ -3,7 +3,7 @@
 
 ### 📍 My Profile
 <ul>
-  <li> Bachelor of Science in Engineering - BSE, Computer Science and Engineering (expected) </li>
+  <li> Bachelor of Science in Engineering - BSE, Computer Science and Engineering </li>
 </ul>
 
 ### 📚 I have experienced...
