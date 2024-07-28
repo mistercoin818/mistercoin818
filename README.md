@@ -1,15 +1,16 @@
-### 📍 My Profile
+### 💻
 <ul>
   <li> Bachelor of Science in Engineering - BSE, Computer Science and Engineering </li>
 </ul>
 
-### 💻 I'm now mainly using...
 <p>
 <img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </p>
 
-### 📚 I have experienced...
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/)
+
+<!-- ### 📚 I have experienced...
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black">
@@ -37,5 +38,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
+
 ### 🔑 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/)
+-->
