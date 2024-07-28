@@ -1,5 +1,5 @@
 ## 💻
-<p> Bachelor of Science in Engineering - BSE, Computer Science and Engineering </p>
+<p><b>Bachelor of Science in Engineering - BSE, Computer Science and Engineering</b></p>
 
 ## 🔑
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/)
