@@ -1,13 +1,18 @@
-## 💻
+## 😉
 <p><b>Computer Science and Engineering Bachelor of Science - BS</b></p>
+
+## 💻
+<p>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black">
+</p>
 
 ## 🔑
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kthnice)](https://solved.ac/kthnice/)
 
 <!-- ### 📚 I have experienced...
 <p>
-<img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
